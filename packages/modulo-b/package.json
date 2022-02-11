@@ -1,6 +1,7 @@
 {
-  "name": "modulo-b",
+  "name": "@pbrego/modulo-b",
   "version": "1.0.1",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "gitHead": "7857646e22d142837b4c7e22772116055bcf62d9"
 }
